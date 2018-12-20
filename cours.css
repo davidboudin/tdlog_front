@@ -1,0 +1,14 @@
+.head {
+    background-color: green;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    text-align:center;
+    font-family:verdana;
+}
+
+.cours {
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(230,230,230);
+}
