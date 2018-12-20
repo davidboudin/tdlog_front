@@ -1,6 +1,21 @@
 body
 {
   color: blue;
-  
+
 
 }
+
+p
+{
+  width: 50%;
+  margin: auto;
+}
+
+#answer{
+  width 50%;
+  margin: auto;
+}
+.formulaire               {display:inline-block;}
+.formulaire .champ       {width:50%; height:35px;}
+.formulaire .bouton       { background-image: url("valider.png");background-repeat: no-repeat;width: 35px;height: 35px;padding: 0; }
+/*je n'arrive pas à mettre l'image "valider.png" dans le bouton.../*
